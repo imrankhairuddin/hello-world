@@ -1,2 +1,3 @@
 # hello-world
-first try not bad. hahaha
+
+Hi Human, My name is Imran Khairuddin. Bachelor in Information Technology(Network Technology). 
